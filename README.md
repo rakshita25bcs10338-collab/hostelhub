@@ -1,7 +1,7 @@
 # 🚀 HostelHub: Smart Expense Tracker & Settlement Engine
 
 **Batch:** 2029 | **Course:** Building Web Applications with React  
-**Live Application:** [Insert Your Live Deployment Link Here]
+**Live Application:** https://rakshita25bcs10338-collab.github.io/hostelhub/#/dashboard
 
 ---
 
